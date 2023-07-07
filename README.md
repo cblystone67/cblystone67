@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**cblystone67/cblystone67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on continuing to develop my skills as a software engineer.
 - 🌱 I’m currently learning C#, JavaScript, Python, React, Django, MongoDB, PostgreSQL.
 - 👯 I’m looking to collaborate on projects that help to cause systemic change and growth.
