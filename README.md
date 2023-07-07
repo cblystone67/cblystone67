@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on continuing to develop my skills as a software engineer.
-- 🌱 I’m currently learning C#, JavaScript, Python, React, Django, MongoDB, PostgreSQL.
+- 🌱 I’m currently continuing to learn C#, JavaScript, Python, React, Django, MongoDB, PostgreSQL.
 - 👯 I’m looking to collaborate on projects that help to cause systemic change and growth.
 - 🤔 I’m looking for help with finding work and support for developing my craft.
 - 💬 Ask me about my journey to becoming a software engineer and how I got to this point.
