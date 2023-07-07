@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **cblystone67/cblystone67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @https://www.linkedin.com/in/christopher-blystone-3457a2252/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I cry at any type of emotional content on tv, movie, play, or story.
--->
+
