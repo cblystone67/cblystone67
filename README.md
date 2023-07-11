@@ -50,12 +50,13 @@ src="https://img.shields.io/twitter/follow/Christopher Blystone?logo=twitter&sty
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
-<a href="http://www.github.com/cblystone67"><img src="https://github-readme-stats.vercel.app/api?username=cblystone67&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="cblystone67's GitHub stats" /></a>
+[![cblystone67's GitHub stats](https://github-readme-stats.vercel.app/api?username=cblystone67&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true)](http://www.github.com/cblystone67)
 
-<a href="http://www.github.com/cblystone67"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cblystone67&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cblystone67&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/cblystone67)
 
-<a href="http://www.github.com/cblystone67"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cblystone67&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=cblystone67&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](http://www.github.com/cblystone67)
 
-<a href="https://github.com/cblystone67" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cblystone67&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cblystone67&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/cblystone67)
+
