@@ -6,9 +6,9 @@ Software Engineer
 
 I am continously searching and striving to better myself. Through the continued development of my craft and learning of new applications and languages. I strive to work with others and learn from them so that I develop a better understanding of our community and those interested by programing and learning.
 
-* 🌍  I'm based in Longview, Washington
+* 🌍  I'm based in Washington State
 * ✉️  You can contact me at [christopherblystone1@gmail.com](mailto:christopherblystone1@gmail.com)
-* 🧠  I'm learning C#
+* 🧠  I'm currently enrolled in Joy of Coding
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am just honored to be amongst all of you.
 
