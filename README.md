@@ -8,7 +8,7 @@ I am continously searching and striving to better myself. Through the continued 
 
 * 🌍  I'm based in Washington State
 * ✉️  You can contact me at [christopherblystone1@gmail.com](mailto:christopherblystone1@gmail.com)
-* 🧠  I'm currently enrolled in Joy of Coding
+* 🧠  I'm currently enrolled in Joy of Coding and Victory Coding
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am just honored to be amongst all of you.
 
